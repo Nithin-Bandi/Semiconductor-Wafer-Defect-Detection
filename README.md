@@ -4,6 +4,7 @@
 Welcome to the "Wafer Defect Identification" repository! This project focuses on identifying defects in wafer images using deep learning techniques. The dataset comprises images with nine distinct classes of defects. To address challenges such as class imbalance & image quality , we have employed the techniques ,Data Augmentation, One-Hot Encoded Semantic Segmentation (OHESS) preprocessing technique.
 
 #Dataset
+# Link : http://mirlab.org/dataset/public/
 
 ![Raw_images](https://github.com/Nithin-Bandi/Semiconductor-Wafer-Defect-Detection/assets/127746961/46f027d6-cfbc-42c7-9c73-0bda379bc458)
 
